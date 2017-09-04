@@ -41,7 +41,7 @@ letters.forEach(function(letter) {
   svg.text({
     x: x + (letterWidth / 2) + 'in',
     y: y + .5 + 'in',
-    'font-family': 'helvetica',
+    'font-family': "'Permanent Marker', serif",
     'font-size': '28px',
     'text-anchor': 'middle',
     stroke : '#000',
